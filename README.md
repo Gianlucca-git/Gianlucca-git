@@ -7,9 +7,9 @@ to comply with my personal and professional goals.
 - 👀 I am interested: music, drawing, digitization and design, sport, teaching and video games.
 - I am currently learning Golang and the English language
 - My programming skills are:
-           * * * Python, Java, SQL, C ++, Dr.racket.
+           * * * Go, Python, Java, SQL, C++, Dr.racket.
            * *   C, modeling, git, django.
-           *     HTML, CSS, Node.js, Android (Java), AWS, Golang.
+           *     HTML, CSS, Node.js, Android (Java), AWS.
 - 📫 How to contact me:
   Cell phone: +57 3157894791
   Correos: 
