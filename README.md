@@ -1,4 +1,4 @@
-- 👋 Hello, I am @ Gianlucca-git, Systems Engineering Student with great enthusiasm 
+- 👋 Hello, I am @ Gianlucca-git, Systems Engineering with great enthusiasm 
 for software development and music.
 Strong skills for collaborative work, domain of scrum and scrumban work framework.
 Oriented to troubleshooting, assertive and good management of interpersonal relationships.
